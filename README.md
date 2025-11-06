@@ -1,3 +1,3 @@
 # 👋 About Me
 
-I am double majoring in Mathematics and Computer Science.
+I am an undergraduate student double majoring in Mathematics and Computer Science.
