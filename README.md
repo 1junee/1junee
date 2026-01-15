@@ -1,3 +1,5 @@
 # 👋 About Me
 
-I am an undergraduate student double majoring in Mathematics and Computer Science.
+# Wonjun Heo (1junee)
+
+Undergraduate student double majoring in Mathematics and Computer Science at University of Seoul. 
