@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:3a7bd5,100:00b4db&height=240&section=header&text=1junee&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%C2%B7%20Multimodal%20Retrieval&descSize=20&descAlignY=56" width="100%" alt="1junee" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00b4db&height=240&section=header&text=1junee&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%C2%B7%20Multimodal%20Retrieval&descSize=20&descAlignY=56" width="100%" alt="1junee" />
 
 수학과 컴퓨터과학을 전공하고 있습니다.
 AI Agent의 도구 중간 결과와 최종 답변을 비교해 **오류가 어느 단계에서 생겼는지** 추적하고, 판단 근거를 확인할 수 있는 AI 서비스를 만듭니다.
@@ -52,7 +52,7 @@ AI Agent의 도구 중간 결과와 최종 답변을 비교해 **오류가 어�
 
 | 기간 | 활동 | 내용 |
 |---|---|---|
-| 2023.03 – 2027.02 (예정) | 서울시립대학교 수학과 | 컴퓨터과학부 복수전공 · 학점 4.19/4.5 |
+| 2023.03 – 2027.02 (예정) | 서울시립대학교 수학과 | 컴퓨터과학부 복수전공 · 전체 GPA 4.19/4.5 · 전공 GPA 4.19/4.5 |
 | 2026.07 | 캡스톤디자인 우수작품상 | 서울시립대학교 공학교육혁신센터 |
 | 2026.01 | 딥러닝 부트캠프 경진대회 공과대학장상 | 서울시립대학교 공과대학 |
 | 2025.02 | IBM AI 해커톤 대상 | 경기과학기술대학교 빅데이터혁신융합대학 |
@@ -62,9 +62,13 @@ AI Agent의 도구 중간 결과와 최종 답변을 비교해 **오류가 어�
 
 ## Study & Practice
 
-| 주제 | 내용 | 저장소 |
-|---|---|---|
-| Reasoning Segmentation (2026.01, 4인 팀) | VLM의 역할을 후보 Box 생성과 조건 검증으로 나누고, 실패 시 2×2·3×3 분할 재탐색. mIoU 범용 0.384 → 0.501, 해양 쓰레기 0.258 → 0.751 | [deepfive](https://github.com/AICOSS-DeepFive/deepfive) |
+### Reasoning Segmentation 경진대회 · 2026.01
+복합적인 자연어 질문의 조건을 해석해 이미지 속 대상을 픽셀 단위로 분할하는 파이프라인입니다. (4인 팀)
+
+- VLM의 역할을 후보 Bounding Box 생성과 질문 조건 검증으로 분리
+- 후보가 없으면 이미지를 2×2·3×3으로 나눠 재탐색
+- mIoU: 범용 0.384 → 0.501 · 해양 쓰레기 0.258 → 0.751
+- [저장소](https://github.com/AICOSS-DeepFive/deepfive)
 
 ## Tech Stack
 
