@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00b4db&height=240&section=header&text=1junee&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Engineer&descSize=20&descAlignY=56" width="100%" alt="1junee" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00b4db&height=240&section=header&text=Wonjun%20Heo&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Engineer&descSize=20&descAlignY=56" width="100%" alt="Wonjun Heo" />
 
 AI의 중간 결과와 최종 답변을 비교해 **오류가 어느 단계에서 생겼는지** 추적하고, 판단 근거를 확인할 수 있는 AI 서비스를 만듭니다.
 
