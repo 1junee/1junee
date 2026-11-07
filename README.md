@@ -7,6 +7,7 @@ AI의 중간 결과와 최종 답변을 비교해 **오류가 어느 단계에�
 
 ## Experience
 
+- 새싹(SeSAC) 성동캠퍼스 · AI 서비스 개발 풀스택 과정 | **수강 중**
 - 수학과 · 컴퓨터과학부 복수전공 (GPA 4.19/4.5, 전공 GPA 4.19/4.5) | **2023.03 – 2027.02 졸업예정**
 - SoccerNet 2026 Challenges Results 논문 공동저자 | **2026**
 - 캡스톤디자인 우수작품상 | **2026**
@@ -31,14 +32,9 @@ AI의 중간 결과와 최종 답변을 비교해 **오류가 어느 단계에�
 
 ## Skills
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/VLM-555555?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multimodal_Retrieval-555555?style=flat-square"/>
-<br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square"/>
+| Category | Skills |
+| --- | --- |
+| Languages | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/> |
+| AI / ML | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/> |
+| Backend | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> |
+| Database | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/> |
