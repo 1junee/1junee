@@ -34,7 +34,7 @@ AI의 중간 결과와 최종 답변을 비교해 **오류가 어느 단계에�
 
 | Category | Skills |
 | --- | --- |
-| Languages | Python · C++ |
-| AI / ML | PyTorch · VLM · Multimodal Retrieval |
-| Backend | FastAPI |
-| Database | PostgreSQL (Supabase) · pgvector |
+| Languages | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/> |
+| AI / ML | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/> |
+| Backend | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> |
+| Database | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/> |
